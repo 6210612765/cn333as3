@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.JetpackComposeNumberGuessingGame" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#F1E159</item>
+    </style>
+</resources>
